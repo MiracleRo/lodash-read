@@ -1,0 +1,2 @@
+# lodash-read
+read lodash
